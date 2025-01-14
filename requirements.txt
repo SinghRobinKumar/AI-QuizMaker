@@ -1,0 +1,9 @@
+langchain_google_genai 
+langchain
+langchain_community
+streamlit
+python-dotenv
+PyPDF2
+
+# To install this local package MCQ-Gen inside the virtual enviroment, run the following command:
+-e .
