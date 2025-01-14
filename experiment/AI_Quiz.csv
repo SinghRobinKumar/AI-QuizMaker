@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-Which of the following is NOT a core concept of AI?,a: Perception | b: Reasoning and Logic | c: Natural Language Processing | d: Emotional Intelligence,d
-What type of AI is designed to perform a specific task?,a: Narrow AI | b: General AI | c: Superintelligent AI | d: Expert Systems,a
-Which branch of AI focuses on enabling machines to understand visual data?,a: Computer Vision | b: Robotics | c: Speech Recognition | d: Reinforcement Learning,a
-What is a potential challenge associated with AI?,a: Bias in AI | b: Job Displacement | c: Ethical Dilemmas | d: All of the above,d
-Which of the following is a recent advancement in AI?,a: Quantum Computing | b: Generative AI | c: Brain-Computer Interfaces | d: All of the above,d
+What is the primary goal of Artificial Intelligence?,a: To create systems that can perform tasks requiring human intelligence | b: To build robots that can replace human workers | c: To develop software that can understand natural language | d: To create machines that can think and feel like humans,a
+Which of the following is NOT a core concept of AI?,a: Perception | b: Reasoning and Logic | c: Learning | d: Emotion,d
+What type of AI is designed to perform specific tasks?,a: Narrow AI | b: General AI | c: Superintelligent AI | d: Expert Systems,a
+Which branch of AI focuses on enabling machines to interpret visual data?,a: Computer Vision | b: Robotics | c: Speech Recognition | d: Reinforcement Learning,a
+What is a potential challenge associated with AI?,a: Bias in training data | b: Job displacement | c: Ethical dilemmas | d: All of the above,d

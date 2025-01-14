@@ -1,6 +1,15 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: MCQ-Gen
 Version: 0.1
 Author: Robin
 Author-email: singhrobinkumar0@gmail.com
 Requires-Python: >=3.6
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
