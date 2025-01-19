@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is the primary goal of Artificial Intelligence?,a: To create systems that can perform tasks traditionally requiring human intelligence | b: To develop algorithms that can solve complex mathematical problems | c: To build robots that can replace human workers | d: To create virtual reality environments for entertainment purposes,a
-Which of the following is NOT a core concept of AI?,a: Perception | b: Reasoning and Logic | c: Emotion | d: Learning,c
-What type of AI is designed to perform a specific task or solve a particular problem?,a: Narrow AI | b: General AI | c: Superintelligent AI | d: Expert Systems,a
-Which branch of AI focuses on enabling machines to interpret and understand visual data?,a: Computer Vision | b: Robotics | c: Speech Recognition | d: Reinforcement Learning,a
-What is a potential ethical concern associated with AI?,a: Bias in AI systems | b: Job displacement | c: Ethical dilemmas in military applications | d: All of the above,d
+Which of the following is NOT a core concept of AI?,a: Perception | b: Reasoning and Logic | c: Data Storage | d: Learning,c
+What type of AI is designed to perform a specific task?,a: Narrow AI | b: General AI | c: Superintelligent AI | d: Weak AI,a
+Which branch of AI focuses on enabling machines to interpret visual data?,a: Computer Vision | b: Robotics | c: Expert Systems | d: Speech Recognition,a
+What is a potential ethical concern associated with AI?,a: Bias in AI | b: Job Displacement | c: Ethical Dilemmas | d: All of the above,d
+Which of the following is a subfield of AI that involves training machines to learn patterns from data?,a: Machine Learning | b: Deep Learning | c: Natural Language Processing | d: Robotics,a

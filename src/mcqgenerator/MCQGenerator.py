@@ -62,7 +62,7 @@ review_chain = LLMChain(
     llm=llm, prompt=quiz_evaluation_propmt, output_key="review", verbose=True
 )
 
-generate_evaluate_quiz = SequentialChain(
+generate_evaluate_chain = SequentialChain(
     chains=[quiz_chain, review_chain],
     input_variables=["text", "number", "subject", "tone", "response_json"],
     output_variables=["quiz", "review"],
