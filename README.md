@@ -1,4 +1,4 @@
-# MCQ Generator
+# AI QuizMaker (MCQ Generator)
 
 This project is an AI-based application designed to generate multiple-choice questions (MCQs) automatically. It leverages natural language processing (NLP) and machine learning techniques to create high-quality questions and answers from a given text or dataset. The goal is to assist educators and content creators in efficiently producing assessment materials.
 
